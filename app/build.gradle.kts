@@ -34,7 +34,7 @@ dependencies {
     implementation("com.google.android.material:material:1.8.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.1")
-    implementation("org.jetbrains.kotlin:kotlin-stdlib:1.8.21") // Update versi Kotlin
+    implementation("org.jetbrains.kotlin:kotlin-stdlib:2.0.21") // Update versi Kotlin
     implementation("androidx.fragment:fragment-ktx:1.5.5")
     implementation("androidx.navigation:navigation-fragment-ktx:2.5.3")
     implementation("androidx.navigation:navigation-ui-ktx:2.5.3")  // Perbaiki typo
