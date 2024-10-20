@@ -34,7 +34,7 @@ android {
 }
 
 dependencies {
-    val kotlin_version = "1.7.10"
+    val kotlin_version = "2.0.21"
     
     implementation("androidx.core:core-ktx:1.7.0")
     implementation("androidx.appcompat:appcompat:1.4.2")
