@@ -5,8 +5,7 @@ plugins {
 
 android {
     compileSdk = 34
-    namespace = com.nurazlib.autoclicker
-    mainClass = "com.nurazlib.autoclicker.MainActivityKt"
+    namespace = "com.nurazlib.autoclicker"
 
     defaultConfig {
         applicationId = "com.nurazlib.autoclicker"
