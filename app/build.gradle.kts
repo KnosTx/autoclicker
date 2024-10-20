@@ -5,7 +5,7 @@ plugins {
 
 android {
     compileSdk = 34
-    namespace com.nurazlib.autoclicker
+    package com.nurazlib.autoclicker
 
     defaultConfig {
         applicationId = "com.nurazlib.autoclicker"
@@ -29,7 +29,7 @@ android {
 
     buildFeatures {
         viewBinding = true
-        dataBinding - true
+        dataBinding = true
     }
 }
 
