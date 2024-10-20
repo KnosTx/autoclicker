@@ -12,6 +12,7 @@ import android.view.View
 import android.view.WindowManager
 import android.widget.Button
 import android.widget.Toast
+import kotlinx.android.synthetic.main.floating_widget.view.*
 
 class FloatingAutoClickService : AccessibilityService() {
     private lateinit var windowManager: WindowManager
